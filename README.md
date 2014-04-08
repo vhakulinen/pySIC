@@ -28,4 +28,5 @@ simpleAdmin.py
 --------------
 This is simple admin script to gather information from all server defined.
 `servers` list must contain server IPs where server.py is running and
-`nameserver` must contain IP and PORT of server where Pyro's nameserver is running
+`nameserver` must contain IP and PORT of server where Pyro's nameserver is running.
+Outputs data to data.xml.
